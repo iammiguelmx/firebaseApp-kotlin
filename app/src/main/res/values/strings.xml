@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirebaseApplication</string>
+    <string-array name="carreras">
+        <item>Ingeniería de Software</item>
+        <item>Telecomunicaciones</item>
+        <item>Software multiplataforma</item>
+    </string-array>
+
+    <string-array name="materias">
+        <item>Introduccion a IoT</item>
+        <item>Desarrollo Web</item>
+        <item>Desarrollo de Apps</item>
+    </string-array>
+
+    <string name="tema">Ingresa Tema del Dia</string>
+    <string name="registro">Registrar tema</string>
+
+</resources>

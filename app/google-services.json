@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431296922149",
+    "firebase_url": "https://diario-kotlin.firebaseio.com",
+    "project_id": "diario-kotlin",
+    "storage_bucket": "diario-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431296922149:android:2d98259aaf209e73adf5cc",
+        "android_client_info": {
+          "package_name": "com.utng.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431296922149-pd357vm98vhfphk9860cqda95k0m69qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utng.firebaseapplication",
+            "certificate_hash": "8db2ac40b5c24a152ddf13af9478ef5f02bbec67"
+          }
+        },
+        {
+          "client_id": "431296922149-h3p3fv3unooh1pnlvh24i1hq5d1aeg1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABQFB-OIH8S30sPzm5_NBdbQn-u8Eou9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431296922149-h3p3fv3unooh1pnlvh24i1hq5d1aeg1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
